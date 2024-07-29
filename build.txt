@@ -1,0 +1,7 @@
+Step 1: Download the zip file from the submission.
+Step 2: Extract zip file
+Step 3: Open base folder in terminal.
+Step 4: You should now be in the base directory file reading "/scc210-2223-grp-63"
+Step 5: Change to '/src' directory with 'cd src'
+Step 6: Compile all Java files in /src with 'javac *.java'
+Step 7: Run Main with 'java Main'
